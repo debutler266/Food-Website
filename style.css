@@ -44,7 +44,7 @@ body {
 .btn {
   font-size: 1em;
   color: #ffffff;
-  background: #ff0157;
+  background: #ebe38d;
   display: inline-block;
   padding: 10px 30px;
   margin-top: 20px;
@@ -90,7 +90,7 @@ header.sticky .logo {
 }
 
 header .logo span {
-  color: #ff0157;
+  color: #ebe38d;
 }
 
 header .nav {
@@ -114,7 +114,7 @@ header.sticky .nav li a {
 }
 
 header .nav li a:hover {
-  color: #ff0157;
+  color: #ebe38d;
 }
 
 section {
@@ -133,6 +133,8 @@ section {
   width: 49%;
 }
 
+/* Menu Section */
+
 .titleText {
   color: #333;
   font-size: 2em;
@@ -140,7 +142,7 @@ section {
 }
 
 .titleText span {
-  color: #ff0157;
+  color: #ebe38d;
   font-weight: 700;
   font-size: 1.5em;
 }
@@ -207,6 +209,8 @@ section {
   font-weight: 500;
   color: #333;
 }
+
+/* Experts/Chefs */
 
 .expert .content {
   display: flex;
@@ -306,7 +310,7 @@ section {
   margin-top: 20px;
   color: #333;
   font-size: 1em;
-  color: #ff0157;
+  color: #ebe38d;
   font-weight: 700;
 }
 
@@ -351,7 +355,7 @@ section {
   font-size: 1em;
   color: #ffffff;
   display: inline-block;
-  background: #ff0157;
+  background: #ebe38d;
   text-transform: uppercase;
   text-decoration: none;
   letter-spacing: 2px;
@@ -373,7 +377,7 @@ section {
 }
 
 .copyright a {
-  color: #ff0157;
+  color: #ebe38d;
   font-weight: 600;
   text-decoration: none;
 }
